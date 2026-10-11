@@ -1,0 +1,12 @@
+{
+    "model": "RandomForestClassifier",
+    "n_estimators": 300,
+    "max_depth": null,
+    "min_samples_leaf": 2,
+    "min_samples_split": 2,
+    "random_state": 42,
+    "mean_cv_f1": 0.7550667518469376,
+    "std_cv_f1": 0.055319285497385864,
+    "test_f1": 0.7258064516129032,
+    "test_accuracy": 0.8100558659217877
+}

@@ -1,0 +1,10 @@
+fastapi
+joblib
+matplotlib
+mlflow
+numpy
+pandas
+pydantic
+scikit-learn
+xgboost
+jupyter
